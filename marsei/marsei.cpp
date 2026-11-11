@@ -1,5 +1,6 @@
 #include "marsei.h"
 
+#include <stdint.h>
 
 
 MarseiDevice::MarseiDevice() { gdix_dbg("Enter MarseiDevice\n"); }
